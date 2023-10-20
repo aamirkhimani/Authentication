@@ -1,2 +1,2 @@
 # Authentication
-Authentication Mechanism in .NET
+Authentication through Identity in .NET
